@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What was Qatar’s real GDP growth in 2023?",
+    "expected_pages": [9],
+    "must_contain": ["1.2", "%"]
+  },
+  {
+    "question": "What is Qatar’s projected GDP growth for 2024–25?",
+    "expected_pages": [13],
+    "must_contain": ["2", "%"]
+  },
+  {
+  "question": "What was Qatar’s nominal GDP growth rate in 2021?",
+  "expected_pages": [39],
+  "must_contain": ["4.9"]
+  }
+]
